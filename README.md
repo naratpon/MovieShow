@@ -1,6 +1,6 @@
 # MovieShow Using SwiftUI + MVVM
-![Uploading Screen Shot 2564-04-05 at 14.27.42.png…]()
-![Uploading Screen Shot 2564-04-05 at 14.27.52.png…]()
+![alt text]![Uploading Screen Shot 2564-04-05 at 14.27.42.png…]()
+![alt text]![Uploading Screen Shot 2564-04-05 at 14.27.52.png…]()
 
 
 # Get Start
