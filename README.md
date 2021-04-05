@@ -1,6 +1,8 @@
 # MovieShow Using SwiftUI + MVVM
 
 # Get Start
-  Clone the Repository
-  Get the API Key from http://www.omdbapi.com
-  Put API Key in Constant.swift apiKey constant
+<ul>
+<li> Clone the Repository </li>
+<li>Get the API Key from http://www.omdbapi.com </li>
+<li>Put API Key in Constant.swift apiKey constant </li>
+</ul>
